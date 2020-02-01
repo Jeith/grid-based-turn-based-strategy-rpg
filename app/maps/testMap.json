@@ -1,0 +1,351 @@
+{
+  "id": 1111111,
+  "canvasTitle": "Toad's Disgusting Adventure",
+  "canvasSize": {
+    "x": 8,
+    "y": 8
+  },
+  "quantityOfPaddingTiles": {
+    "x": 2,
+    "y": 2
+  },
+  "xAxis": [
+    [
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ],
+    [
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": true
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ],
+    [
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": true,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ],
+    [
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ],
+    [
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": true,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ],
+    [
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ],
+    [
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": true
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": true,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ],
+    [
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exBlack",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      },
+      {
+        "texture": "exwhite",
+        "enemyStartingSpace": false,
+        "allyStartingSpace": false
+      }
+    ]
+  ],
+  "paddingTiles": "transparent"
+}

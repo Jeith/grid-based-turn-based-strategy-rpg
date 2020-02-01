@@ -1,0 +1,60 @@
+@import url(~@fortawesome/fontawesome-free/css/all.css);
+
+/* VARS
+ * =================================
+ */
+
+/* MIXINS
+* =================================
+*/
+body #root .home {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  position: relative;
+  color: black;
+  height: 100vh;
+  font-family: Arial, Helvetica, Helvetica Neue, serif;
+  overflow-y: hidden; }
+  body #root .home .map-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+    body #root .home .map-container .row {
+      display: -webkit-flex;
+      display: flex;
+      -webkit-flex-direction: row;
+      -moz-flex-direction: row;
+      -ms-flex-direction: row;
+      flex-direction: row; }
+      body #root .home .map-container .row .tile {
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        align-items: center;
+        width: 45px;
+        height: 45px; }
+        body #root .home .map-container .row .tile.exwhite-texture {
+          background-color: white; }
+        body #root .home .map-container .row .tile.exBlack-texture {
+          background-color: black; }
+        body #root .home .map-container .row .tile.interactive.enemy {
+          cursor: pointer; }
+        body #root .home .map-container .row .tile .player-allowed-space {
+          display: -webkit-flex;
+          display: flex;
+          width: 100%;
+          height: 100%;
+          background-color: rgba(64, 128, 191, 0.9); }
